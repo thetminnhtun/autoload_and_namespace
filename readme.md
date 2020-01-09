@@ -14,7 +14,7 @@ This is a sample project about Composer autoloading system include Classmap, PSR
 Just run below commands 
 
 ```
-git clone
+git clone https://github.com/thetminnhtun/autoload_and_namespace.git PROJECT_FOLDER
 
 cd PROJECT_FOLDER
 
