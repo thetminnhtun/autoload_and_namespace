@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "classmap": [
+            "shape/"
+        ],
+        "psr-4": {
+            "Earth\\": "earth/"
+        },
+        "files": [
+            "functions/date.php",
+            "functions/math.php"
+        ]
+    }
+}
